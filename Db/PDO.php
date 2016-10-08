@@ -12,16 +12,21 @@ class PDO implements IDatabase
     function connect()
     {
         // TODO: Implement connect() method.
+        echo"厉害了我的娃";
     }
 
     function query()
     {
         // TODO: Implement query() method.
+        echo"厉害了我的弟";
+
     }
 
     function close()
     {
         // TODO: Implement close() method.
+        echo"厉害了我的...";
+
     }
 
 }
