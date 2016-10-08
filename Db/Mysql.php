@@ -3,13 +3,18 @@
 namespace Db;
 class Mysql implements IDatabase
 {
-    function connect(){
-
+    function connect()
+    {
+        // TODO: Implement connect() method.
     }
-    function query(){
 
+    function query()
+    {
+        // TODO: Implement query() method.
     }
-    function close(){
 
+    function close()
+    {
+        // TODO: Implement close() method.
     }
 }
