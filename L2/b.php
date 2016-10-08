@@ -7,4 +7,8 @@
  */
 header("Content-type:text/html;charset=utf-8");
 
-echo "L2";
+class Test{
+    function delete(){
+        echo "L2";
+    }
+}
